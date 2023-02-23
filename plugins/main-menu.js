@@ -19,7 +19,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text }) =
 let m2 = `
 ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ
 `
-let pp = './Guru.jpg' 
+let pp = './Sriji.jpg' 
     conn.sendButton(m.chat, m2, `╭═══〘 ✯✯✯✯✯✯✯ 〙══╮
 ║    *ᴛʜᴇ srijiser-ʙᴏᴛ* 
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
