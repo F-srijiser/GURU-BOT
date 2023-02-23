@@ -4,7 +4,7 @@ let handler = async (m, {conn, text, usedPrefix, command }) => {
   let chat = global.db.data.chats[m.chat]
   if (!chat.nsfw) throw `🚫 this group doesn't support nsfw enable it by \n*${usedPrefix}enable* nsfw`
   let user = global.db.data.users[m.sender].age
-  if (user < 17) throw `❎ ja padhai kar! age must be 18 to use this feature`
+  if (user < 17) throw `❎ poitt padikk ! age must be 18 to use this feature`
   if (!text) throw `✳️ invalid format\n📌 Use : *${usedPrefix}xnxx <search>*\n\n or  URL:\n📌Use : *${usedPrefix}xnxxdl <url>*`
  m.react(rwait)
 
