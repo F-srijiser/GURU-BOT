@@ -98,82 +98,6 @@ let m2 = `
 ┣ ඬ⃟ 📥 _${usedPrefix}ytmp4doc *< link / url>*_
 ┣ ඬ⃟ 📥 _${usedPrefix}play *<text>*_
 ┣ ඬ⃟ 📥 _${usedPrefix}spotify *<text>*_
-┣ ඬ⃟ 🔞 _${usedPrefix}videoxxx_
-┣ ඬ⃟ 🔞 _${usedPrefix}videolesbixxx_
-┣ ඬ⃟ 🔞 _${usedPrefix}tit_
-┣ ඬ⃟ 🔞 _${usedPrefix}booty_
-┣ ඬ⃟ 🔞 _${usedPrefix}ecchi_
-┣ ඬ⃟ 🔞 _${usedPrefix}furro_
-┣ ඬ⃟ 🔞 _${usedPrefix}lesbians_
-┣ ඬ⃟ 🔞 _${usedPrefix}panties_
-┣ ඬ⃟ 🔞 _${usedPrefix}penis_
-┣ ඬ⃟ 🔞 _${usedPrefix}porn_
-┣ ඬ⃟ 🔞 _${usedPrefix}randomxxx_
-┣ ඬ⃟ 🔞 _${usedPrefix}pechos_
-┣ ඬ⃟ 🔞 _${usedPrefix}yaoi_
-┣ ඬ⃟ 🔞 _${usedPrefix}yaoi2_
-┣ ඬ⃟ 🔞 _${usedPrefix}yuri_
-┣ ඬ⃟ 🔞 _${usedPrefix}yuri2_
-┣ ඬ⃟ 🔞 _${usedPrefix}trap_
-┣ ඬ⃟ 🔞 _${usedPrefix}hentai_
-┣ ඬ⃟ 🔞 _${usedPrefix}hloli_
-┣ ඬ⃟ 🔞 _${usedPrefix}orgy_
-┣ ඬ⃟ 🔞 _${usedPrefix}foot_
-┣ ඬ⃟ 🔞 _${usedPrefix}hass_
-┣ ඬ⃟ 🔞 _${usedPrefix}bdsm_
-┣ ඬ⃟ 🔞 _${usedPrefix}cum_
-┣ ඬ⃟ 🔞 _${usedPrefix}ero_
-┣ ඬ⃟ 🔞 _${usedPrefix}femdom_
-┣ ඬ⃟ 🔞 _${usedPrefix}glass_
-┣ ඬ⃟ 🔞 _${usedPrefix}hentai*_
-┣ ඬ⃟ 🔞 _${usedPrefix}underwear_
-┣ ඬ⃟ 🔞 _${usedPrefix}spussy_
-┣ ඬ⃟ 🔞 _${usedPrefix}bunnygirl_
-┣ ඬ⃟ 🔞 _${usedPrefix}bunnyear_
-┣ ඬ⃟ 🔞 _${usedPrefix}sswimsuit_
-┣ ඬ⃟ 🔞 _${usedPrefix}chain_
-┣ ඬ⃟ 🔞 _${usedPrefix}genshin_
-┣ ඬ⃟ 🔞 _${usedPrefix}white_
-┣ ඬ⃟ 🔞 _${usedPrefix}barefoot_
-┣ ඬ⃟ 🔞 _${usedPrefix}whitehair_
-┣ ඬ⃟ 🔞 _${usedPrefix}touhou_
-┣ ඬ⃟ 🔞 _${usedPrefix}holo_
-┣ ඬ⃟ 🔞 _${usedPrefix}gamecg_
-┣ ඬ⃟ 🔞 _${usedPrefix}uncensored_
-┣ ඬ⃟ 🔞 _${usedPrefix}sunglass_
-┣ ඬ⃟ 🔞 _${usedPrefix}glass_
-┣ ඬ⃟ 🔞 _${usedPrefix}demon_
-┣ ඬ⃟ 🔞 _${usedPrefix}bondage_
-┣ ඬ⃟ 🔞 _${usedPrefix}torn cloth_
-┣ ඬ⃟ 🔞 _${usedPrefix}fingering_
-┣ ඬ⃟ 🔞 _${usedPrefix}gun_
-┣ ඬ⃟ 🔞 _${usedPrefix}vampire_
-┣ ඬ⃟ 🔞 _${usedPrefix}idol_
-┣ ඬ⃟ 🔞 _${usedPrefix}beach_
-┣ ඬ⃟ 🔞 _${usedPrefix}bra_
-┣ ඬ⃟ 🔞 _${usedPrefix}topless_
-┣ ඬ⃟ 🔞 _${usedPrefix}stokings_
-┣ ඬ⃟ 🔞 _${usedPrefix}shorts_
-┣ ඬ⃟ 🔞 _${usedPrefix}anus_
-┣ ඬ⃟ 🔞 _${usedPrefix}tie_
-┣ ඬ⃟ 🔞 _${usedPrefix}headphone_
-┣ ඬ⃟ 🔞 _${usedPrefix}pantypull_
-┣ ඬ⃟ 🔞 _${usedPrefix}wet_
-┣ ඬ⃟ 🔞 _${usedPrefix}breast_
-┣ ඬ⃟ 🔞 _${usedPrefix}twintail_
-┣ ඬ⃟ 🔞 _${usedPrefix}sex_
-┣ ඬ⃟ 🔞 _${usedPrefix}sex2_
-┣ ඬ⃟ 🔞 _${usedPrefix}sex3_
-┣ ඬ⃟ 🔞 _${usedPrefix}skirt_
-┣ ඬ⃟ 🔞 _${usedPrefix}uniform_
-┣ ඬ⃟ 🔞 _${usedPrefix}foxgirl_
-┣ ඬ⃟ 🔞 _${usedPrefix}ponytail_
-┣ ඬ⃟ 🔞 _${usedPrefix}nude_
-┣ ඬ⃟ 🔞 _${usedPrefix}bed_
-┣ ඬ⃟ 🔞 _${usedPrefix}pinkhair_
-┣ ඬ⃟ 🔞 _${usedPrefix}bikini_
-┣ ඬ⃟ 🔞 _${usedPrefix}nobra_
-┣ ඬ⃟ 🔞 _${usedPrefix}maid_
 ┣ ඬ⃟ 🧧 _${usedPrefix}toimg *<sticker>*_
 ┣ ඬ⃟ 🧧 _${usedPrefix}tomp3 *<video>*_
 ┣ ඬ⃟ 🧧 _${usedPrefix}tovideo *<sticker>*_
@@ -269,8 +193,8 @@ let m2 = `
 ┣ ඬ⃟ 👽 _${usedPrefix}wm *<packname> <author>*_
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 `
-let pp = './Guru.jpg' 
-    conn.sendButton(m.chat, m2, '▢ ᴳᵁᴿᵁ  ┃ ᴮᴼᵀ\n▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n', pp, 
+let pp = './https://i.ibb.co/qMG1JPY/fg.jpg' 
+    conn.sendButton(m.chat, m2, '▢ SrijiSer  ┃ ᴮᴼᵀ\n▢ Follow on Instagram\nhttps://www.instagram.com/sriji_ser\n', pp, 
       ['⌬ Groups', `${usedPrefix}gpguru`]
     ,m, rpyt)
 
