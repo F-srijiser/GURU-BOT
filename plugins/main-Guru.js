@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
 
-≡  *SrijiSer  ┃ ᴮᴼᵀ*   GRUPS
+≡  *SrijiSer  ┃ ᴮᴼᵀ*   GROUPS
 
 ─────────────
 ▢ Join public bot group and support
